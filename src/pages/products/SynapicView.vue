@@ -86,7 +86,7 @@
           </nav>
   
           <div class="nav-actions reveal-element" style="--delay: 0.3s">
-            <a href="https://github.com/yigitkabak" class="btn-github">
+            <a href="https://github.com/openbytelabs" class="btn-github">
               <span>GitHub</span>
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17l9.2-9.2M17 17V7H7"/></svg>
             </a>
